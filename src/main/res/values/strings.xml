@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FeedMe</string>
+    <string name="sales_icon">Sales</string>
+    <string name="contacts_text">Контакты</string>
+    <string name="about_text">О нас</string>
+    <string name="menu_text">Меню</string>
+    <string name="feed_text">Мистер</string>
+    <string name="me_text">Лев</string>
+    <string name="leo_icon">Leo</string>
+    <string name="meal_price">Цена:</string>
+    <string name="meal_weight">Вес:</string>
+</resources>
